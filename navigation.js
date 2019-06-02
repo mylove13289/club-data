@@ -13,7 +13,7 @@
         {
             "name": "segmentfault",
             "url": "https://segmentfault.com/",
-            "icon": "https://static.segmentfault.com/v-5cc2cd8e/global/img/touch-icon.png"
+            "icon": ""
         },
         {"name": "知乎", "icon": "", "url": "http://www.zhihu.com/"},
 
