@@ -3,19 +3,19 @@
 :
     [
 
-        {"name": "GOOGLE", "icon": "CSND", "url": "http://www.google.com"},
+        {"name": "GOOGLE", "icon": "", "url": "http://www.google.com"},
         {"name": "百度", "icon": "https://www.baidu.com/favicon.ico", "url": "https://www.baidu.com/"},
         {"name": "开源中国", "icon": "https://static.oschina.net/new-osc/img/favicon.ico", "url": "https://www.oschina.net/"},
         {"name": "INFOQ", "icon": "https://static001.infoq.cn/static/infoq/www/img/InfoQ-share-icon2.jpg", "url": "https://www.infoq.cn/"},
         {"name": "GITHUB", "icon": "https://github.com/fluidicon.png", "url": "https://github.com/"},
         {"name": "并发网站", "icon": "", "url": "http://ifeve.com/"},
-        {"name": "StackOverFlow", "icon": "CSND", "url": "http://stackoverflow.com/"},
+        {"name": "StackOverFlow", "icon": "", "url": "http://stackoverflow.com/"},
         {
             "name": "segmentfault",
             "url": "https://segmentfault.com/",
             "icon": "https://static.segmentfault.com/v-5cc2cd8e/global/img/touch-icon.png"
         },
-        {"name": "知乎", "icon": "CSND", "url": "http://www.zhihu.com/"},
+        {"name": "知乎", "icon": "", "url": "http://www.zhihu.com/"},
 
         {"name": "CSND", "url": "http://www.csdn.net/", "icon": "https://csdnimg.cn/public/favicon.ico"},
         {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": "https://common.cnblogs.com/favicon.ico"},
@@ -34,12 +34,10 @@
         {
             "categoryName": "博客站", "desc": "", "categorySiteList": [
 
-                {"name": "CSND", "url": "CSND", "icon": "URL"},
-                {"name": "博客园", "url": "CSND", "icon": "URL"},
+                {"name": "CSND", "url": "http://www.csdn.net/", "icon": ""},
+                {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": ""},
                 {"name": "IBM中国", "url": "https://www.ibm.com/developerworks/cn/java/", "icon": ""},
-                {"name": "博客园", "url": "CSND", "icon": "URL"},
-                {"name": "博客园", "url": "CSND", "icon": "URL"},
-                {"name": "博客园", "url": "CSND", "icon": "URL"}
+                {"name": "51CTO", "url": "http://www.51cto.com/", "icon": ""},
 
 
             ]
