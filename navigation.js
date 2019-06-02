@@ -4,25 +4,25 @@
     [
 
         {"name": "GOOGLE", "icon": "CSND", "url": "http://www.google.com"},
-        {"name": "°Ù¶È", "icon": "https://www.baidu.com/favicon.ico", "url": "https://www.baidu.com/"},
-        {"name": "¿ªÔ´ÖĞ¹ú", "icon": "https://static.oschina.net/new-osc/img/favicon.ico", "url": "https://www.oschina.net/"},
+        {"name": "ç™¾åº¦", "icon": "https://www.baidu.com/favicon.ico", "url": "https://www.baidu.com/"},
+        {"name": "å¼€æºä¸­å›½", "icon": "https://static.oschina.net/new-osc/img/favicon.ico", "url": "https://www.oschina.net/"},
         {"name": "INFOQ", "icon": "https://static001.infoq.cn/static/infoq/www/img/InfoQ-share-icon2.jpg", "url": "https://www.infoq.cn/"},
         {"name": "GITHUB", "icon": "https://github.com/fluidicon.png", "url": "https://github.com/"},
-        {"name": "²¢·¢ÍøÕ¾", "icon": "", "url": "http://ifeve.com/"},
+        {"name": "å¹¶å‘ç½‘ç«™", "icon": "", "url": "http://ifeve.com/"},
         {"name": "StackOverFlow", "icon": "CSND", "url": "http://stackoverflow.com/"},
         {
             "name": "segmentfault",
             "url": "https://segmentfault.com/",
             "icon": "https://static.segmentfault.com/v-5cc2cd8e/global/img/touch-icon.png"
         },
-        {"name": "Öªºõ", "icon": "CSND", "url": "http://www.zhihu.com/"},
+        {"name": "çŸ¥ä¹", "icon": "CSND", "url": "http://www.zhihu.com/"},
 
         {"name": "CSND", "url": "http://www.csdn.net/", "icon": "https://csdnimg.cn/public/favicon.ico"},
-        {"name": "²©¿ÍÔ°", "url": "https://www.cnblogs.com/", "icon": "https://common.cnblogs.com/favicon.ico"},
+        {"name": "åšå®¢å›­", "url": "https://www.cnblogs.com/", "icon": "https://common.cnblogs.com/favicon.ico"},
         {"name": "processON", "url": "https://www.processon.com/", "icon": "https://www.processon.com/favicon.ico"},
 
-        {"name": "ÂëÅ©Ãñ", "url": "http://www.codeceo.com/", "icon": "http://static.codeceo.com/favicon.ico"},
-        {"name": "¿ìµİ²éÑ¯", "url": "http://www.kuaidi.com/", "icon": ""}
+        {"name": "ç å†œæ°‘", "url": "http://www.codeceo.com/", "icon": "http://static.codeceo.com/favicon.ico"},
+        {"name": "å¿«é€’æŸ¥è¯¢", "url": "http://www.kuaidi.com/", "icon": ""}
 
 
     ],
@@ -32,21 +32,21 @@
     [
 
         {
-            "categoryName": "²©¿ÍÕ¾", "desc": "", "categorySiteList": [
+            "categoryName": "åšå®¢ç«™", "desc": "", "categorySiteList": [
 
                 {"name": "CSND", "url": "CSND", "icon": "URL"},
-                {"name": "²©¿ÍÔ°", "url": "CSND", "icon": "URL"},
-                {"name": "IBMÖĞ¹ú", "url": "https://www.ibm.com/developerworks/cn/java/", "icon": ""},
-                {"name": "²©¿ÍÔ°", "url": "CSND", "icon": "URL"},
-                {"name": "²©¿ÍÔ°", "url": "CSND", "icon": "URL"},
-                {"name": "²©¿ÍÔ°", "url": "CSND", "icon": "URL"}
+                {"name": "åšå®¢å›­", "url": "CSND", "icon": "URL"},
+                {"name": "IBMä¸­å›½", "url": "https://www.ibm.com/developerworks/cn/java/", "icon": ""},
+                {"name": "åšå®¢å›­", "url": "CSND", "icon": "URL"},
+                {"name": "åšå®¢å›­", "url": "CSND", "icon": "URL"},
+                {"name": "åšå®¢å›­", "url": "CSND", "icon": "URL"}
 
 
             ]
         },
 
         {
-            "categoryName": "½ÓË½»î", "desc": "", "categorySiteList": [
+            "categoryName": "æ¥ç§æ´»", "desc": "", "categorySiteList": [
 
                 {"name": "CSND", "url": "https://www.cnblogs.com/", "icon": "URL"},
                 {"name": "CSND", "url": "http://www.csdn.net/", "icon": "URL"},
@@ -57,7 +57,7 @@
 
 
         {
-            "categoryName": "IT×ÊÑ¶", "desc": "", "categorySiteList": [
+            "categoryName": "ITèµ„è®¯", "desc": "", "categorySiteList": [
 
                 {"name": "CSND", "url": "http://36kr.com/", "icon": "URL"},
                 {"name": "CSND", "url": "https://www.huxiu.com/", "icon": "URL"},
@@ -69,39 +69,39 @@
 
 
         {
-            "categoryName": "¿´ĞÂÎÅ", "desc": "", "categorySiteList": [
+            "categoryName": "çœ‹æ–°é—»", "desc": "", "categorySiteList": [
 
-                {"name": "ÍøÒ×ĞÂÎÅ", "url": "http://news.163.com/", "icon": "URL"},
-                {"name": "·ï»Ë×ÊÑ¶", "url": "http://news.ifeng.com/", "icon": "URL"},
-                {"name": "ÈËÃñÍø", "url": "http://www.people.com.cn/", "icon": "URL"},
-                {"name": "ÄÏ·½¶¼ÊĞ±¨", "url": "http://www.nandu.com/", "icon": "URL"},
-                {"name": "ÃÀ¹úCNN", "url": "http://www.cnn.com/", "icon": "URL"},
-                {"name": "ÁªºÏ¹úĞÂÎÅ", "url": "http://www.un.org/chinese/News/", "icon": "URL"},
-                {"name": "»·Çò¾üÊÂ", "url": "http://mil.huanqiu.com/", "icon": "URL"},
-                {"name": "·ï»ËÍø¾üÊÂ", "url": "http://news.ifeng.com/mil/", "icon": "URL"},
-                {"name": "¹ú·À²¿", "url": "http://www.mod.gov.cn/", "icon": "URL"}
-
-            ]
-        },
-
-        {
-            "categoryName": "ĞİÏĞÒ»¿Ì", "desc": "", "categorySiteList": [
-
-                {"name": "19Â¥", "url": "http://www.19lou.com/", "icon": "URL"},
-                {"name": "ôÜÊÂ°Ù¿Æ", "url": "http://www.qiushibaike.com/", "icon": "URL"},
-                {"name": "±©×ßÂş»­", "url": "http://baozoumanhua.com/", "icon": "URL"}
+                {"name": "ç½‘æ˜“æ–°é—»", "url": "http://news.163.com/", "icon": "URL"},
+                {"name": "å‡¤å‡°èµ„è®¯", "url": "http://news.ifeng.com/", "icon": "URL"},
+                {"name": "äººæ°‘ç½‘", "url": "http://www.people.com.cn/", "icon": "URL"},
+                {"name": "å—æ–¹éƒ½å¸‚æŠ¥", "url": "http://www.nandu.com/", "icon": "URL"},
+                {"name": "ç¾å›½CNN", "url": "http://www.cnn.com/", "icon": "URL"},
+                {"name": "è”åˆå›½æ–°é—»", "url": "http://www.un.org/chinese/News/", "icon": "URL"},
+                {"name": "ç¯çƒå†›äº‹", "url": "http://mil.huanqiu.com/", "icon": "URL"},
+                {"name": "å‡¤å‡°ç½‘å†›äº‹", "url": "http://news.ifeng.com/mil/", "icon": "URL"},
+                {"name": "å›½é˜²éƒ¨", "url": "http://www.mod.gov.cn/", "icon": "URL"}
 
             ]
         },
 
         {
-            "categoryName": "ÈÈ°®ÃÀÍ¼", "desc": "", "categorySiteList": [
+            "categoryName": "ä¼‘é—²ä¸€åˆ»", "desc": "", "categorySiteList": [
 
-                {"name": "ÃÃ×ÓÃÀÍ¼", "url": "http://www.meizitu.com/", "icon": ""},
-                {"name": "ÃÀÅ®¸ßÇå", "url": "http://www.qiushibaike.com/", "icon": "URL"},
-                {"name": "ÃÀÅ®Ë½·¿ÕÕ", "url": "http://www.mnsfz.com/", "icon": "URL"},
-                {"name": "4493ÃÀÍ¼", "url": "http://www.4493.com/", "icon": "URL"},
-                {"name": "ÃÀÅ®Í¼Æ¬", "url": "http://www.169bb.com/", "icon": "URL"}
+                {"name": "19æ¥¼", "url": "http://www.19lou.com/", "icon": "URL"},
+                {"name": "ç³—äº‹ç™¾ç§‘", "url": "http://www.qiushibaike.com/", "icon": "URL"},
+                {"name": "æš´èµ°æ¼«ç”»", "url": "http://baozoumanhua.com/", "icon": "URL"}
+
+            ]
+        },
+
+        {
+            "categoryName": "çƒ­çˆ±ç¾å›¾", "desc": "", "categorySiteList": [
+
+                {"name": "å¦¹å­ç¾å›¾", "url": "http://www.meizitu.com/", "icon": ""},
+                {"name": "ç¾å¥³é«˜æ¸…", "url": "http://www.qiushibaike.com/", "icon": "URL"},
+                {"name": "ç¾å¥³ç§æˆ¿ç…§", "url": "http://www.mnsfz.com/", "icon": "URL"},
+                {"name": "4493ç¾å›¾", "url": "http://www.4493.com/", "icon": "URL"},
+                {"name": "ç¾å¥³å›¾ç‰‡", "url": "http://www.169bb.com/", "icon": "URL"}
 
             ]
         },
