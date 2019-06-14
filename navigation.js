@@ -46,9 +46,14 @@
         {
             "categoryName": "接私活", "desc": "", "categorySiteList": [
 
-                {"name": "CSND", "url": "https://www.cnblogs.com/", "icon": ""},
-                {"name": "CSND", "url": "http://www.csdn.net/", "icon": ""},
-                {"name": "CSND", "url": "http://www.jianshu.com/", "icon": ""}
+                {"name": "开源中国众包平台", "url": "https://zb.oschina.net/", "icon": ""},
+                {"name": "我要外包网", "url": "http://www.51waibao.net", "icon": ""},
+                {"name": "程序员的经纪人", "url": "https://www.proginn.com/", "icon": ""},
+                {"name": "快码众包", "url": "https://www.proginn.com/", "icon": ""},
+                {"name": "Coding 码 市", "url": "", "icon": ""},
+                {"name": "我爱方案网", "url": "http://www.52solution.com/kb", "icon": ""},
+                {"name": "人人开发", "url": "http://www.rrkf.com/", "icon": ""},
+                {"name": "开发邦", "url": "https://www.kaifabang.com/", "icon": ""}
 
             ]
         },
