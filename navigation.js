@@ -17,11 +17,11 @@
         },
         {"name": "知乎", "icon": "", "url": "http://www.zhihu.com/"},
 
-        {"name": "CSND", "url": "http://www.csdn.net/", "icon": "https://csdnimg.cn/public/favicon.ico"},
-        {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": "https://common.cnblogs.com/favicon.ico"},
+        {"name": "CSND", "url": "http://www.csdn.net/", "icon": "http://file.9rmb.club/static_file/icon/csdn_favicon.ico"},
+        {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": "http://file.9rmb.club/static_file/icon/cnblog_favicon.ico"},
         {"name": "processON", "url": "https://www.processon.com/", "icon": "https://www.processon.com/favicon.ico"},
 
-        {"name": "码农民", "url": "http://www.codeceo.com/", "icon": "http://static.codeceo.com/favicon.ico"},
+        {"name": "码农民", "url": "http://www.codeceo.com/", "icon": "http://file.9rmb.club/static_file/icon/codeceo_favicon.ico"},
         {"name": "快递查询", "url": "http://www.kuaidi.com/", "icon": ""}
 
 
@@ -34,8 +34,8 @@
         {
             "categoryName": "博客站", "desc": "", "categorySiteList": [
 
-                {"name": "CSND", "url": "http://www.csdn.net/", "icon": ""},
-                {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": ""},
+                {"name": "CSND", "url": "http://www.csdn.net/", "icon": "http://file.9rmb.club/static_file/icon/csdn_favicon.ico"},
+                {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": "http://file.9rmb.club/static_file/icon/cnblog_favicon.ico"},
                 {"name": "IBM中国", "url": "https://www.ibm.com/developerworks/cn/java/", "icon": ""},
                 {"name": "51CTO", "url": "http://www.51cto.com/", "icon": ""},
 
