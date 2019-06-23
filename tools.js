@@ -1,35 +1,4 @@
-{
-    "commonSiteList"
-:
-    [
-
-        {"name": "GOOGLE", "icon": "", "url": "http://www.google.com"},
-        {"name": "百度", "icon": "https://www.baidu.com/favicon.ico", "url": "https://www.baidu.com/"},
-        {"name": "开源中国", "icon": "https://static.oschina.net/new-osc/img/favicon.ico", "url": "https://www.oschina.net/"},
-        {"name": "INFOQ", "icon": "https://static001.infoq.cn/static/infoq/www/img/InfoQ-share-icon2.jpg", "url": "https://www.infoq.cn/"},
-        {"name": "GITHUB", "icon": "https://github.com/fluidicon.png", "url": "https://github.com/"},
-        {"name": "并发网站", "icon":"http://file.9rmb.club/static_file/icon/ifeve_favicon.ico", "url": "http://ifeve.com/"},
-        {"name": "StackOverFlow", "icon": "", "url": "http://stackoverflow.com/"},
-        {
-            "name": "segmentfault",
-            "url": "https://segmentfault.com/",
-            "icon": ""
-        },
-        {"name": "知乎", "icon": "http://file.9rmb.club/static_file/icon/zhihu_favicon.ico", "url": "http://www.zhihu.com/"},
-
-        {"name": "CSND", "url": "http://www.csdn.net/", "icon": "http://file.9rmb.club/static_file/icon/csdn_favicon.ico"},
-        {"name": "博客园", "url": "https://www.cnblogs.com/", "icon": "http://file.9rmb.club/static_file/icon/cnblog_favicon.ico"},
-        {"name": "processON", "url": "https://www.processon.com/", "icon": "https://www.processon.com/favicon.ico"},
-
-        {"name": "码农民", "url": "http://www.codeceo.com/", "icon": "http://file.9rmb.club/static_file/icon/codeceo_favicon.ico"},
-        {"name": "快递查询", "url": "http://www.kuaidi.com/", "icon": ""}
-
-
-    ],
-
-        "categoryList"
-:
-    [
+[
 
         {
             "categoryName": "博客站", "desc": "", "categorySiteList": [
@@ -111,5 +80,3 @@
 
 
     ]
-
-}
