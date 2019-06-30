@@ -9,11 +9,11 @@
         {"name": "INFOQ", "icon": "https://static001.infoq.cn/static/infoq/www/img/InfoQ-share-icon2.jpg", "url": "https://www.infoq.cn/"},
         {"name": "GITHUB", "icon": "https://github.com/fluidicon.png", "url": "https://github.com/"},
         {"name": "并发网站", "icon":"http://file.9rmb.club/static_file/icon/ifeve_favicon.ico", "url": "http://ifeve.com/"},
-        {"name": "StackOverFlow", "icon": "", "url": "http://stackoverflow.com/"},
+        {"name": "StackOverFlow", "icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico", "url": "http://stackoverflow.com/"},
         {
             "name": "segmentfault",
             "url": "https://segmentfault.com/",
-            "icon": ""
+            "icon": "https://static.segmentfault.com/v-5cc2cd8e/global/img/favicon.ico"
         },
         {"name": "知乎", "icon": "http://file.9rmb.club/static_file/icon/zhihu_favicon.ico", "url": "http://www.zhihu.com/"},
 
@@ -22,7 +22,7 @@
         {"name": "processON", "url": "https://www.processon.com/", "icon": "https://www.processon.com/favicon.ico"},
 
         {"name": "码农民", "url": "http://www.codeceo.com/", "icon": "http://file.9rmb.club/static_file/icon/codeceo_favicon.ico"},
-        {"name": "快递查询", "url": "http://www.kuaidi.com/", "icon": ""}
+        {"name": "快递查询", "url": "http://www.kuaidi.com/", "icon": "http://www.kuaidi.com/favicon.ico"}
 
 
     ],
