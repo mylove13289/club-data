@@ -13,7 +13,7 @@
         {
             "name": "segmentfault",
             "url": "https://segmentfault.com/",
-            "icon": "https://static.segmentfault.com/v-5cc2cd8e/global/img/favicon.ico"
+            "icon": "http://file.9rmb.club/static_file/9rmb_upload/e6e9b37c-2847-4c03-9fc0-c54e84b0cbd9.ico"
         },
         {"name": "知乎", "icon": "http://file.9rmb.club/static_file/icon/zhihu_favicon.ico", "url": "http://www.zhihu.com/"},
 
