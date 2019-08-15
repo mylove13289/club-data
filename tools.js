@@ -3,6 +3,8 @@
         {
             "categoryName": "博客站", "desc": "", "categorySiteList": [
 
+                    
+                {"name": "mac工具集合地","desc": "mac工具集合地", "page": "https://www.waitsun.com/", "downloadUrl": "很多很多"},
                 {"name": "sublime","desc": "文本编辑", "page": "http://mac.orsoon.com/Mac/160734.html", "downloadUrl": "https://mac2.orsoon.com/mac/201805/SublimeText.dmg"},
                 {"name": "iterm","desc": "命令本", "page": "http://mac.orsoon.com/Mac/163432.html", "downloadUrl": "https://mac2.orsoon.com/mac/201807/iTerm_zyc.dmg"},
                 {"name": "office","desc": "office", "page": "http://mac.orsoon.com/Mac/83311.html", "downloadUrl": "https://mac2.orsoon.com//2017/06/soft/Office2016MacGJY9UD.dmg"},
